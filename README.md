@@ -18,5 +18,5 @@ Chatforchange is an **AI-powered mental health chatbot** that integrates **sound
 - **Backend:** Python,  Flask  
 - **AI Models:** Feedforward Neural Network  
 - **Database:**  SQLite  
-- **APIs:** Twilio (SMS alert system), Speech-to-Text (STT) for voice recognition 
+- **APIs:** Twilio (SMS alert system), Speech-to-Text (STT) for voice recognition
 
